@@ -126,13 +126,13 @@ XoDos V5.1.0 glibc/bionic
 - [✓] More languages
 - [✓] easier User friendly UX & UI
 - [ ] Fix Google Pixel phones won't open the app
+- [ ] NEED OF OPTIMIZING EMULATOR FOR GTA 4 IS NEEDED
 
 
 <!-- CONTRIBUTING -->
 
-## ☕ buy me a coffee ☕
-<a id="support"></a> <!-- Anchor for funding button -->
-## ❤️ Support This Project To grow ❤️
+
+## SUPPORTING PROJECT
 
 **USDT (Polygon Network Only):**  
 ```0x046ac894C15fcC88D492835445938291c00DD0a7```
@@ -177,16 +177,14 @@ xodios X - [@XAleiwi](https://x.com/XAleiwi)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/xodiosx/XoDos/graphs/contributors
+
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
 [forks-url]: https://github.com/xodiosx/XoDos/network/members
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
 [stars-url]: https://github.com/xodiosx/XoDos/stargazers
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/xodiosx/XoDos/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/xodiosx/XoDos/blob/master/LICENSE.txt
+
+
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png

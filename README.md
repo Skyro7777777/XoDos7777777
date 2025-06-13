@@ -15,7 +15,7 @@
 ## XoDos emulator
 
 # About
-it's a fully fledged X server with termux and winlator touch controls together in one App. It is built with Android NDK.
+it's a fledged X server with termux and winlator touch controls together in one App. It is built with Android NDK.
 
 ## Submodules
 This repo uses submodules. Use 
